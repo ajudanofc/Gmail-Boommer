@@ -1,9 +1,7 @@
 # 🚀 Gmail Boommer
 
 <p align="center">
-  <a href="https://github.com/ajudanofc/Gmail-Boommer">
-    🔗 View Repository Banner
-  </a>
+  <img src="https://files.catbox.moe/dm98g1.jpg" width="100%">
 </p>
 
 ---
@@ -28,18 +26,18 @@ It helps security researchers and developers:
 - Test email delivery reliability
 - Stress-test SMTP servers
 - Evaluate spam filters
-- Perform controlled mail flood simulations in lab environments
+- Perform controlled mail simulations in lab environments
 
 ⚠️ **Disclaimer:**  
-This tool is intended strictly for **legal testing and research only**.  
-Any misuse, spamming, or illegal activity is **not the responsibility of the author**.
+This tool is strictly for **legal security testing only**.  
+The author is not responsible for misuse or illegal activities.
 
 ---
 
 ## ✨ Features
 - ⚡ Fast bulk email sending
 - 🖥️ Simple CLI interface
-- 📦 Lightweight & easy setup
+- 📦 Lightweight
 - 📱 Termux supported
 - 🐧 Linux compatible
 - 🔰 Beginner friendly
@@ -49,7 +47,7 @@ Any misuse, spamming, or illegal activity is **not the responsibility of the aut
 ## ⚙️ Requirements
 - Python 3.x
 - Git
-- Termux or Linux OS
+- Termux or Linux
 
 ---
 
@@ -82,48 +80,39 @@ python3 spam.py
 python3 spam.py
 ```
 
-Then follow the prompts:
-- Target email
-- Message content
-- Amount
-- Delay (optional)
+Follow the instructions in the terminal.
 
 ---
 
 ## 🔒 Legal Notice
-You are fully responsible for how you use this tool.
 
 ### Allowed
 ✔️ Lab testing  
-✔️ Personal server testing  
 ✔️ Security research  
-✔️ Penetration testing with permission  
+✔️ Authorized penetration testing  
 
-### Not Allowed
+### Prohibited
 ❌ Spam attacks  
 ❌ Harassment  
-❌ Unauthorized usage  
-❌ Illegal activities  
+❌ Illegal usage  
 
 ---
 
 ## 🤝 Contributing
-Pull requests, issues, and suggestions are welcome.
+Pull requests and suggestions are welcome.
 
 ---
 
 ## ⭐ Support
-If this project helps you, please give it a ⭐ on GitHub.
+Give this project a ⭐ if it helps you.
 
 ---
 
 ## 👨‍💻 Author
-**Ajudan OFC**
-
-GitHub:  
+**Ajudan OFC**  
 https://github.com/ajudanofc
 
 ---
 
 ## 📜 License
-This project is licensed under the **MIT License**.
+MIT License
