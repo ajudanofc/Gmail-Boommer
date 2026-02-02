@@ -1,7 +1,7 @@
 # 🚀 Gmail Boommer
 
 <p align="center">
-  <img src="https://files.catbox.moe/dm98g1.jpg" width="100%">
+  <img src="https://files.catbox.moe/dm98g1.jpg" width="100%" height="100%">
 </p>
 
 ---
